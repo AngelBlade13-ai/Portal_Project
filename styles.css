@@ -27,6 +27,10 @@ nav a {
 nav h2 {
   color: #ffffff;
 }
+a:link, a:visited {
+  color: white; 
+  text-decoration: none; 
+}
 
 /* footer */
 a {
